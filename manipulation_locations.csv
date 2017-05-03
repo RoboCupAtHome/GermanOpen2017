@@ -1,13 +1,13 @@
-Number,Location
-1,Dinner table
-2,Cabinet (4 shelves)
-3,Bookshelf (4 shelves)
-4,Kitchencounter
-5,Sofa
-6,Couch table
-7,Side table
-8,Stove
-9,Bed
-10,Closet
-11,Desk
-12,Bar
+Number,Location,Category
+1,Dinner table,
+2,Cabinet (4 shelves),Cutlery
+3,Bookshelf (4 shelves),Container
+4,Kitchencounter,Drink
+5,Sofa,
+6,Couch table,Snack
+7,Side table,
+8,Stove,Food
+9,Bed,
+10,Closet,Cleaning stuff
+11,Desk,Fruit
+12,Bar,
