@@ -1,0 +1,53 @@
+Category 3:
+1. Could you Leave the arena, look for a rising left arm person, and tell what day is today
+2. Leave the arena, look for a pointing right person, and say the day of the week
+3. Look for a person outside the arena and answer a question
+
+
+Category 5:
+1. Navigate to the Bed, meet Benjamin, and take him
+	Benjamin must be taken from Bed to couch table, but he will get lost before reaching it
+2. Take Ava to the Desk (Ava is at the dinner table)
+3. Meet Isabella and escort her
+	 Isabella must be taken from Bar to Couch table, but she will get lost before reaching it
+4. Guide Noah to the Bed (Noah is at the dinner table)
+5. Bring me a Drink (banana milk)
+6. Meet Isabella and accompany her (Isabella must be taken from Sofa to Bar, but she will get lost before reaching it)
+
+
+
+Category 8:
+
+1. Navigate to the dining room, look for the Towel, and put it on the kitchencounter
+2. Could you please enter to the bedroom, find the Red bowl, and put it on the Bar.
+3. Could you find a Pear in the kitchen, and give it to Mason in the TV.
+4. Could you please locate a Apple in the kitchen, and give it to me.
+5. Please go to the TV, look for Ethan, and take him to the kitchen.
+6. Robot please find Mason in the Bed, locate James in the living room, and follow him.
+7. Please take the Paprika from the stove, tell a joke, and look for Abigail in the Desk.
+8. Could you please go to the Living room, look for the Noodles, and put it on the stove.
+9. Enter to the bedroom, find the Bag, and give it to William at the Bar.
+10. Could you deliver Cornflakes on the couch table, and answer a question.
+	question: 	Q: Where do you store your memories?
+				A: e.g. HARDDRIVE, SSD, RAM, etc.
+
+
+ToBI:
+8: Navigate to the dining room, look for the Towel, and put it on the kitchencounter
+8: Could you please enter to the bedroom, find the Red bowl, and put it on the Bar.
+8: Please go to the Bar, look for Ethan, and take him to the kitchen.
+
+Homer:
+5: Bring me some Food (Food = Peas)
+3: Leave the arena, find a person out there, and lead that person to the Kitchen
+8: Robot please go to the kitchen, look for the Noodles, and place it on the kitchencounter.
+
+TechUnited:
+5: Bring me a Cleaning stuff (Cleaning stuff = Sponge)
+5: Meet Charlotte and follow her (Charlotte is at the Bar)
+5: Follow Benjamin (Benjamin is at the dinner table)
+
+RT-Lions:
+8: Locate Sophia at the dinner table, and guide her to the exit.
+8: Robot please find Mason in the Bed, locate James in the living room, and follow him.
+8: Could you please go to the bedroom, locate the Banana milk, and give it to Abigail in the Bar.

@@ -1,0 +1,48 @@
+Homer (Attempt 1)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: The sitting person was a man or a woman?
+3: How many doors has the Living room?
+4: Do the Party cracker and Spoon belong to the same category?
+5: Between the Apple and Spoon, which one is smaller?
+--------------------
+1: Where is your team located?
+2: How many objects are on the Stove?
+3: Where is the Closet?
+4: The lying person was boy or girl?
+5: Do the Coke and Water belong to the same category?
+6: How many Desks are in the Living room?
+
+
+Homer (Attempt 2)
+----------
+1: Who is the main character of The Matrix?
+2: Tell me if the sitting person was a female?
+3: How many Closets are in the bedroom?
+4: Where can I find an Apple?
+5: Which is the biggest object?
+--------------------
+1: What city are we in?
+2: Between the Plate and Cappucino, which one is smaller?
+3: In which room is the Bar?
+4: Tell me how many people were wearing black
+5: What objects are stored in the dinner table?
+6: How many Closets are in the dining room?
+
+
+Homer (Attempt 3)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me how many people were wearing white
+3: In which room is the bookshelf?
+4: Do the Pear and Pringles belong to the same category?
+5: How many men are in the crowd?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: Tell me if the pointing right person was a female?
+3: What objects are stored in the Kitchencounter?
+4: In which room is the Bed?
+5: Tell me how many people were wearing white
+6: How many objects are in the Desk?
+
+

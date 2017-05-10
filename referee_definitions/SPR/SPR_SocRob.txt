@@ -1,0 +1,48 @@
+SocRob (Attempt 1)
+----------
+1: Who is the main character of The Matrix?
+2: Tell me if the standing person was a man?
+3: In which room is the Kitchencounter?
+4: How many Containers are in the Closet?
+5: Do the Tomato pasta and Banana milk belong to the same category?
+--------------------
+1: What city are we in?
+2: Between the Pringles and Bread, which one is smaller?
+3: In which room is the Desk?
+4: Tell me the number of elders in the crowd
+5: Where can I find a Snack?
+6: Where is the stove?
+
+
+SocRob (Attempt 2)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me if the waving person was a female?
+3: In which room is the closet?
+4: What's the colour of the Pepper?
+5: Tell me the number of females in the crowd
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: How many people in the crowd are standing or lying?
+3: What objects are stored in the Bar?
+4: Where is the Bed?
+5: Tell me if the standing person was a male?
+6: Which is the smallest Cleaning stuff?
+
+
+SocRob (Attempt 3)
+----------
+1: Where do you store your memories?
+2: Tell me how many people were wearing red
+3: Where is the dinner table?
+4: How many objects are in the Closet?
+5: What's the colour of the Red bowl?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: Where can I find a Spoon?
+3: How many desks are in the dining room?
+4: Tell me the number of children in the crowd
+5: Do the Party cracker and Spoon belong to the same category?
+6: How many doors has the dining room?
+
+

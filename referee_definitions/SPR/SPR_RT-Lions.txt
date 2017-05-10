@@ -1,0 +1,48 @@
+RT-Lions (Attempt 1)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: Tell me the number of females in the crowd
+3: Where is the Bar?
+4: How many objects are in the desk?
+5: How many couch tables are in the dining room?
+--------------------
+1: Where is your team located?
+2: How many Beds are in the kitchen?
+3: Where can I find a Plate?
+4: Tell me the number of women in the crowd
+5: How many doors has the Living room?
+6: How many Containers are in the Closet?
+
+
+RT-Lions (Attempt 2)
+----------
+1: Who is the main character of The Matrix?
+2: Tell me if the standing person was a man?
+3: In which room is the Sofa?
+4: Do the Tomato pasta and Banana milk belong to the same category?
+5: Tell me the number of elders in the crowd
+--------------------
+1: What city are we in?
+2: Tell me if the waving person was a female?
+3: Between the Pringles and Bread, which one is smaller?
+4: In which room is the Kitchencounter?
+5: Tell me the number of females in the crowd
+6: Where can I find a Snack?
+
+
+RT-Lions (Attempt 3)
+----------
+1: Who wrote the three laws of robotics?
+2: How many people in the crowd are standing or lying?
+3: In which room is the Desk?
+4: What's the colour of the Pepper?
+5: Tell me if the standing person was a male?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: Tell me how many people were wearing red
+3: What objects are stored in the Bar?
+4: Where is the stove?
+5: Tell me the number of children in the crowd
+6: Which is the smallest Cleaning stuff?
+
+

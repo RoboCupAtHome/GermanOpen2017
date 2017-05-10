@@ -1,0 +1,48 @@
+SCC (Attempt 1)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me if the pointing right person was a female?
+3: In which room is the Bar?
+4: Do the Pear and Pringles belong to the same category?
+5: How many Closets are in the dining room?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: In which room is the bookshelf?
+3: What objects are stored in the Kitchencounter?
+4: Tell me how many people were wearing white
+5: In which room is the Bed?
+6: How many objects are in the Desk?
+
+
+SCC (Attempt 2)
+----------
+1: Where do you store your memories?
+2: Rising right arm?
+3: In which room is the dinner table?
+4: To which category belong the Pringles?
+5: How many adults are in the crowd?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: How many boys are in the crowd?
+3: Between the Pepper and Lemon, which one is smaller?
+4: Where is the Desk?
+5: Tell me if the lying person was a man?
+6: To which category belong the Potato soup?
+
+
+SCC (Attempt 3)
+----------
+1: From what series do you know Rosie the robot?
+2: Tell me how many people were wearing yellow
+3: How many doors has the kitchen?
+4: Where can I find a Basket?
+5: Where can I find a Coke?
+--------------------
+1: What is the name of your team?
+2: Where can I find a Drink?
+3: Tell me if the pointing right person was a male?
+4: Where is the bookshelf?
+5: Do the Fork and Egg belong to the same category?
+6: Tell me if the rising right arm person was a girl?
+
+

@@ -1,0 +1,336 @@
+ToBI (Attempt 1)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me the number of females in the crowd
+3: In which room is the closet?
+4: Where can I find a Snack?
+5: How many people in the crowd are standing or lying?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: Tell me if the standing person was a male?
+3: Where is the Bed?
+4: What's the colour of the Pepper?
+5: Tell me how many people were wearing red
+6: Where is the dinner table?
+
+
+ToBI (Attempt 2)
+----------
+1: Where do you store your memories?
+2: Tell me the number of children in the crowd
+3: How many desks are in the dining room?
+4: What objects are stored in the Bar?
+5: How many doors has the dining room?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: Where is the cabinet?
+3: How many people in the crowd are lying
+4: Which is the smallest Cleaning stuff?
+5: How many doors has the bedroom?
+6: How many elders are in the crowd?
+
+
+ToBI (Attempt 3)
+----------
+1: From what series do you know Rosie the robot?
+2: The lying person was a man or a woman?
+3: How many Desks are in the bedroom?
+4: How many objects are in the Closet?
+5: What's the colour of the Red bowl?
+--------------------
+1: What is the name of your team?
+2: Where can I find a Spoon?
+3: Tell me the number of women in the crowd
+4: In which room is the Bar?
+5: Do the Party cracker and Spoon belong to the same category?
+6: Tell me the number of males in the crowd
+
+
+Homer (Attempt 1)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: The sitting person was a man or a woman?
+3: In which room is the Bar?
+4: Between the Apple and Spoon
+5: The lying person was boy or girl?
+--------------------
+1: Where is your team located?
+2: Tell me if the sitting person was a female?
+3: How many objects are on the Stove?
+4: How many doors has the Living room?
+5: Tell me how many people were wearing black
+6: Do the Coke and Water belong to the same category?
+
+
+Homer (Attempt 2)
+----------
+1: Who is the main character of The Matrix?
+2: Tell me how many people were wearing white
+3: Where is the Closet?
+4: Where can I find an Apple?
+5: How many men are in the crowd?
+--------------------
+1: What city are we in?
+2: Tell me if the pointing right person was a female?
+3: Which is the biggest object?
+4: How many Desks are in the Living room?
+5: Tell me how many people were wearing white
+6: Between the Plate and Cappucino
+
+
+Homer (Attempt 3)
+----------
+1: Who wrote the three laws of robotics?
+2: Rising right arm?
+3: How many Closets are in the bedroom?
+4: What objects are stored in the dinner table?
+5: How many adults are in the crowd?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: How many boys are in the crowd?
+3: In which room is the Bar?
+4: Do the Pear and Pringles belong to the same category?
+5: Tell me if the lying person was a man?
+6: How many Closets are in the dining room?
+
+
+TechUnited (Attempt 1)
+----------
+1: Where do you store your memories?
+2: Tell me how many people were wearing yellow
+3: In which room is the bookshelf?
+4: What objects are stored in the Kitchencounter?
+5: Tell me if the pointing right person was a male?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: Tell me if the rising right arm person was a girl?
+3: In which room is the Bed?
+4: How many objects are in the Desk?
+5: Tell me the number of females in the crowd
+6: In which room is the dinner table?
+
+
+TechUnited (Attempt 2)
+----------
+1: From what series do you know Rosie the robot?
+2: Tell me the number of women in the crowd
+3: Where is the Desk?
+4: To which category belong the Pringles?
+5: Tell me if the standing person was a man?
+--------------------
+1: What is the name of your team?
+2: Tell me the number of elders in the crowd
+3: How many doors has the kitchen?
+4: Between the Pepper and Lemon
+5: Tell me if the waving person was a female?
+6: Where is the bookshelf?
+
+
+TechUnited (Attempt 3)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: Tell me the number of females in the crowd
+3: Where is the Bar?
+4: To which category belong the Potato soup?
+5: Where can I find a Basket?
+--------------------
+1: Where is your team located?
+2: Where can I find a Coke?
+3: How many couch tables are in the dining room?
+4: How many people in the crowd are standing or lying?
+5: Where can I find a Drink?
+6: How many Beds are in the kitchen?
+
+
+SocRob (Attempt 1)
+----------
+1: Who is the main character of The Matrix?
+2: Tell me if the standing person was a male?
+3: How many doors has the Living room?
+4: Do the Fork and Egg belong to the same category?
+5: In which room is the Sofa?
+--------------------
+1: What city are we in?
+2: In which room is the Kitchencounter?
+3: Tell me how many people were wearing red
+4: How many objects are in the desk?
+5: In which room is the Desk?
+6: Tell me the number of children in the crowd
+
+
+SocRob (Attempt 2)
+----------
+1: Who wrote the three laws of robotics?
+2: How many people in the crowd are lying
+3: Where is the stove?
+4: Where can I find a Plate?
+5: How many Containers are in the Closet?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: Do the Tomato pasta and Banana milk belong to the same category?
+3: How many elders are in the crowd?
+4: In which room is the closet?
+5: Between the Pringles and Bread
+6: The lying person was a man or a woman?
+
+
+SocRob (Attempt 3)
+----------
+1: Where do you store your memories?
+2: Tell me the number of women in the crowd
+3: Where is the Bed?
+4: Where can I find a Snack?
+5: What's the colour of the Pepper?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: What objects are stored in the Bar?
+3: Tell me the number of males in the crowd
+4: Where is the dinner table?
+5: Which is the smallest Cleaning stuff?
+6: The sitting person was a man or a woman?
+
+
+b-it-bots (Attempt 1)
+----------
+1: From what series do you know Rosie the robot?
+2: The lying person was boy or girl?
+3: How many desks are in the dining room?
+4: How many objects are in the Closet?
+5: What's the colour of the Red bowl?
+--------------------
+1: What is the name of your team?
+2: Where can I find a Spoon?
+3: Tell me if the sitting person was a female?
+4: How many doors has the dining room?
+5: Do the Party cracker and Spoon belong to the same category?
+6: Tell me how many people were wearing black
+
+
+b-it-bots (Attempt 2)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: Tell me how many people were wearing white
+3: Where is the cabinet?
+4: Between the Apple and Spoon
+5: How many men are in the crowd?
+--------------------
+1: Where is your team located?
+2: Tell me if the pointing right person was a female?
+3: How many doors has the bedroom?
+4: How many objects are on the Stove?
+5: Tell me how many people were wearing white
+6: How many Desks are in the bedroom?
+
+
+b-it-bots (Attempt 3)
+----------
+1: Who is the main character of The Matrix?
+2: Rising right arm?
+3: In which room is the Bar?
+4: Do the Coke and Water belong to the same category?
+5: Where can I find an Apple?
+--------------------
+1: What city are we in?
+2: Which is the biggest object?
+3: In which room is the Bar?
+4: How many adults are in the crowd?
+5: Between the Plate and Cappucino
+6: How many doors has the Living room?
+
+
+SCC (Attempt 1)
+----------
+1: Who wrote the three laws of robotics?
+2: How many boys are in the crowd?
+3: Where is the Closet?
+4: What objects are stored in the dinner table?
+5: How many Desks are in the Living room?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: How many Closets are in the bedroom?
+3: Do the Pear and Pringles belong to the same category?
+4: Tell me if the lying person was a man?
+5: In which room is the Bar?
+6: What objects are stored in the Kitchencounter?
+
+
+SCC (Attempt 2)
+----------
+1: Where do you store your memories?
+2: Tell me how many people were wearing yellow
+3: How many Closets are in the dining room?
+4: How many objects are in the Desk?
+5: Tell me if the pointing right person was a male?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: Tell me if the rising right arm person was a girl?
+3: To which category belong the Pringles?
+4: In which room is the bookshelf?
+5: Tell me the number of females in the crowd
+6: Between the Pepper and Lemon
+
+
+SCC (Attempt 3)
+----------
+1: From what series do you know Rosie the robot?
+2: Tell me the number of women in the crowd
+3: In which room is the Bed?
+4: To which category belong the Potato soup?
+5: In which room is the dinner table?
+--------------------
+1: What is the name of your team?
+2: Where is the Desk?
+3: Tell me if the standing person was a man?
+4: Where can I find a Basket?
+5: How many doors has the kitchen?
+6: Tell me the number of elders in the crowd
+
+
+RT-Lions (Attempt 1)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: Tell me if the waving person was a female?
+3: Where is the bookshelf?
+4: Where can I find a Coke?
+5: Where is the Bar?
+--------------------
+1: Where is your team located?
+2: How many couch tables are in the dining room?
+3: Where can I find a Drink?
+4: Tell me the number of females in the crowd
+5: How many Beds are in the kitchen?
+6: Do the Fork and Egg belong to the same category?
+
+
+RT-Lions (Attempt 2)
+----------
+1: Who is the main character of The Matrix?
+2: How many people in the crowd are standing or lying?
+3: How many doors has the Living room?
+4: How many objects are in the desk?
+5: Where can I find a Plate?
+--------------------
+1: What city are we in?
+2: How many Containers are in the Closet?
+3: In which room is the Sofa?
+4: Tell me if the standing person was a male?
+5: Do the Tomato pasta and Banana milk belong to the same category?
+6: In which room is the Kitchencounter?
+
+
+RT-Lions (Attempt 3)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me how many people were wearing red
+3: In which room is the Desk?
+4: Between the Pringles and Bread
+5: Where can I find a Snack?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: What's the colour of the Pepper?
+3: Tell me the number of children in the crowd
+4: Where is the stove?
+5: What objects are stored in the Bar?
+6: How many people in the crowd are lying
+
+

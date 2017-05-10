@@ -1,0 +1,20 @@
+Drinks
+1: Coke
+2: Banana milk
+3. Cappucino
+4. Orange drink
+5. Water
+
+Combos:
+1. 	Bread		and 	Pasta
+2. 	Cereals		and 	Bread
+3. 	Cornflakes 	and 	Cereals
+4. 	Crackers	and 	Cornflakes
+5. 	Noodles		and 	Crackers
+6. 	Paprika		and 	Noodles
+7. 	Peas		and 	Paprika
+8. 	Noodles		and 	Peas
+9. 	Potato		and 	Paprika
+10.	Soup		and 	Potato
+11. 	Bread		and 	Soup
+12. 	Pasta		and 	Paprika

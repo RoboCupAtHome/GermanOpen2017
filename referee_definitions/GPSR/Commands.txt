@@ -1,0 +1,36 @@
+Category 1:
+1. Look for the Snack in the Living room 
+	Snack = Pringles
+
+2. Find the Cornflakes in the dining room
+
+3. Tell me how many Banana milk there are on the Couch table
+
+4. Tell me the name of the person in the kitchen
+
+5. Tell me how many Cereals there are on the Stove
+
+6. Tell me the name of the person in the living room
+
+7. Locate the Banana milk in the kitchen
+
+8. Find the Potato soup in the dining room
+
+9. Tell me how many Salt there are on the stove
+
+
+
+Category 2:
+1. Tell me how many people in the Living room are standing
+
+2. Give me the Apple
+
+3. Navigate to the Bed, meet Charlotte, and go after her
+		remarks: Follow Charlotte to the kitchen
+
+4. Navigate to the dinner table, look for the Lemon, and give it to me
+
+5. Take Abigail from the Bed to the dinner table
+	remark: The person being guided must deviate when indicated by the referee before reaching the dinner table
+
+6. Tell me how many Drinks there are on the Side table

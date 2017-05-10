@@ -1,0 +1,48 @@
+TechUnited (Attempt 1)
+----------
+1: Where do you store your memories?
+2: Rising right arm?
+3: In which room is the dinner table?
+4: To which category belong the Pringles?
+5: How many adults are in the crowd?
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: How many boys are in the crowd?
+3: Between the Pepper and Lemon, which one is smaller?
+4: Where is the Desk?
+5: Tell me if the lying person was a man?
+6: To which category belong the Potato soup?
+
+
+TechUnited (Attempt 2)
+----------
+1: From what series do you know Rosie the robot?
+2: Tell me how many people were wearing yellow
+3: How many doors has the kitchen?
+4: Where can I find a Basket?
+5: Where can I find a Coke?
+--------------------
+1: What is the name of your team?
+2: Where can I find a Drink?
+3: Where is the bookshelf?
+4: Tell me if the pointing right person was a male?
+5: Do the Fork and Egg belong to the same category?
+6: Where is the Bar?
+
+
+TechUnited (Attempt 3)
+----------
+1: Name the two RoboCup@Home standard platforms.
+2: Tell me if the rising right arm person was a girl?
+3: How many couch tables are in the dining room?
+4: How many objects are in the desk?
+5: How many Beds are in the kitchen?
+--------------------
+1: Where is your team located?
+2: How many doors has the Living room?
+3: Tell me the number of females in the crowd
+4: Where can I find a Plate?
+5: In which room is the Sofa?
+6: Tell me the number of women in the crowd
+
+

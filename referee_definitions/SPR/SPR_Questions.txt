@@ -1,0 +1,116 @@
+Questions
+=========
+
+Predefined (1 per attempt)
+----------
+
+1. 	What city are we in? -- > Magdeburg
+2. 	Who is the main character of The Matrix? -- > Neo
+3. 	Where is your team located? -- > <Your team's home city>
+4. 	Name the two RoboCup@Home standard platforms. -- > Pepper and HSR
+5. 	What is the name of your team? -- > <your team name>
+6. 	From what series do you know Rosie the robot? -- > The Jetsons
+7. 	Name the big hairy creature in Star Wars. -- > Chewbacca
+8. 	Where do you store your memories? -- > <My harddrive/SSD/RAM...>
+9. 	From what series do you know the baby Bam Bam? -- > The Flintstones
+10.	Who wrote the three laws of robotics? -- > Isaac Asimov
+
+Arena (1-2 per attempt)
+-----
+
+01. Where is the stove?
+02. In which room is the Desk?
+03. In which room is the Kitchencounter?
+04. In which room is the Sofa?
+05. How many doors has the Living room?
+06. How many Beds are in the kitchen?
+07. How many couch tables are in the dining room?
+08. Where is the Bar?
+09. Where is the bookshelf?
+10. How many doors has the kitchen?
+11. Where is the Desk?
+12. In which room is the dinner table?
+13. In which room is the Bed?
+14. In which room is the bookshelf?
+15. How many Closets are in the dining room?
+16. In which room is the Bar?
+17. How many Closets are in the bedroom?
+18. How many Desks are in the Living room?
+19. Where is the Closet?
+20. How many doors has the Living room?
+21. In which room is the Bar?
+22. In which room is the Bar?
+23. How many Desks are in the bedroom?
+24. How many doors has the bedroom?
+25. Where is the cabinet?
+26. How many doors has the dining room?
+27. How many desks are in the dining room?
+28. Where is the dinner table?
+29. Where is the Bed?
+30. In which room is the closet?
+
+Crowd (1-2 per attempt)
+-----
+01. Tell me if the waving person was a female?
+02. Tell me the number of elders in the crowd
+03. Tell me if the standing person was a man?
+04. Tell me the number of women in the crowd
+05. Tell me the number of females in the crowd
+06. Tell me if the rising right arm person was a girl?
+07. Tell me if the pointing right person was a male?
+08. Tell me how many people were wearing yellow
+09. Tell me if the lying person was a man?
+10. How many boys are in the crowd?
+11. How many adults are in the crowd?
+12. Rising right arm?
+13. Tell me how many people were wearing white
+14. Tell me if the pointing right person was a female?
+15. How many men are in the crowd?
+16. Tell me how many people were wearing white
+17. Tell me how many people were wearing black
+18. Tell me if the sitting person was a female?
+19. The lying person was boy or girl?
+20. The sitting person was a man or a woman?
+21. Tell me the number of males in the crowd
+22. Tell me the number of women in the crowd
+23. The lying person was a man or a woman?
+24. How many elders are in the crowd?
+25. How many people in the crowd are lying
+26. Tell me the number of children in the crowd
+27. Tell me how many people were wearing red
+28. Tell me if the standing person was a male?
+29. How many people in the crowd are standing or lying?
+30. Tell me the number of females in the crowd
+
+Objects (1-2 per attempt)
+-------
+01. Between the Pringles and Bread, which one is smaller?
+02. Do the Tomato pasta and Banana milk belong to the same category?
+03. How many Containers are in the Closet?
+04. Where can I find a Plate?
+05. How many objects are in the desk?
+06. Do the Fork and Egg belong to the same category?
+07. Where can I find a Drink?
+08. Where can I find a Coke?
+09. Where can I find a Basket?
+10. To which category belong the Potato soup?
+11. Between the Pepper and Lemon, which one is smaller?
+12. To which category belong the Pringles?
+13. How many objects are in the Desk?
+14. What objects are stored in the Kitchencounter?
+15. Do the Pear and Pringles belong to the same category?
+16. What objects are stored in the dinner table?
+17. Between the Plate and Cappucino, which one is smaller?
+18. Which is the biggest object?
+19. Where can I find an Apple?
+20. Do the Coke and Water belong to the same category?
+21. How many objects are on the Stove?
+22. Between the Apple and Spoon, which one is smaller?
+23. Do the Party cracker and Spoon belong to the same category?
+24. Where can I find a Spoon?
+25. What's the colour of the Red bowl?
+26. How many objects are in the Closet?
+27. Which is the smallest Cleaning stuff?
+28. What objects are stored in the Bar?
+29. What's the colour of the Pepper?
+30. Where can I find a Snack?

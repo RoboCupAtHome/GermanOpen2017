@@ -1,0 +1,48 @@
+ToBI (Attempt 1)
+----------
+1: Who wrote the three laws of robotics?
+2: Tell me the number of females in the crowd
+3: In which room is the closet?
+4: Where can I find a Snack?
+5: Where is the Bed?
+--------------------
+1: From what series do you know the baby Bam Bam?
+2: Where is the dinner table?
+3: What's the colour of the Pepper?
+4: How many people in the crowd are standing or lying?
+5: How many desks are in the dining room?
+6: What objects are stored in the Bar?
+
+
+ToBI (Attempt 2)
+----------
+1: Where do you store your memories?
+2: Tell me if the standing person was a male?
+3: How many doors has the dining room?
+4: Which is the smallest Cleaning stuff?
+5: Tell me how many people were wearing red
+--------------------
+1: Name the big hairy creature in Star Wars.
+2: Tell me the number of children in the crowd
+3: Where is the cabinet?
+4: How many objects are in the Closet?
+5: How many people in the crowd are lying
+6: How many doors has the bedroom?
+
+
+ToBI (Attempt 3)
+----------
+1: From what series do you know Rosie the robot?
+2: How many elders are in the crowd?
+3: How many Desks are in the bedroom?
+4: What's the colour of the Red bowl?
+5: The lying person was a man or a woman?
+--------------------
+1: What is the name of your team?
+2: Tell me the number of women in the crowd
+3: In which room is the Bar?
+4: Where can I find a Spoon?
+5: Tell me the number of males in the crowd
+6: In which room is the Bar?
+
+
